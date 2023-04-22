@@ -6,7 +6,7 @@
 2. [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
 3. [Rustlings](https://github.com/rust-lang/rustlings)
 
-## Machine Learning in Rust
+## Rust Machine Learning
 
 1. [Cornell CS4780 SP17](https://youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 2. [HPI Natural Language Processing](https://hpi.de/en/studies/during-your-studies/courses/digital-health-ma/course/sose-23-3776-natural-language-processing.html)
