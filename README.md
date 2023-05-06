@@ -1,1 +1,2 @@
-# Vivy: An experimental ML application in Rust
+Attempt to develop an ML application in Rust
+
