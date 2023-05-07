@@ -1,4 +1,4 @@
-## match versus if/else
+## `match` versus `if/else`
 
 [Reddit](https://www.reddit.com/r/rust/comments/w625ur/is_there_any_advantage_of_using_match_instead_of/)
 
@@ -29,5 +29,7 @@ let light_value2 = if traffic_light == Red { // I have to read way further down 
 ```
 
 
-## let mut versus shadowing
+## `let mut` versus **shadowing**
+
+**Shadowing** can change the data type, `let mut` cannot
 
